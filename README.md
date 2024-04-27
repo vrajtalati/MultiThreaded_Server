@@ -28,7 +28,7 @@ Graph for Multithreded Server.It works way better than the single threaded Serve
 ![Screenshot (20)](https://github.com/vrajtalati/MultiThreaded_Server/assets/77099540/8f87d0bc-7726-44cc-902d-4895931602ba)
 Graph for Thread pooling technique.We can see how it has less deviation compared to Multithreaded Server.This is when i used pool of 10 threads, it could be optimozed ahead.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 ## Key Learnings
 
 - Mutlithreaded Server
